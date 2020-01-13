@@ -1,0 +1,7 @@
+En este ejemplo, podemos darnos una idea de la funcionalidad que tienen las funciones construidas dentro de processiong
+Estas funciones son mouseX y mouseY las cuales heredan el valor de la posicion del mouse dentro del lienzo en su 
+respectivo eje, esto nos dara siempre valores entre 0 y el valor máximo de pixeles de cada eje. 
+
+En este ejemplo utilizamos estos valores para controlar la posición en x y y de nuestro circulo. Pero podríamos utilizarlas 
+lo que quisieramos. 
+
